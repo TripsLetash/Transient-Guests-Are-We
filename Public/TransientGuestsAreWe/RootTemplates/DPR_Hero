@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="330" lslib_meta="v1,bswap_guids"/>
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+            <attribute id="CharacterVisualResourceID" type="FixedString" value="33799690-b92d-4d0e-bf1d-429e2d99cde0" />
+            <attribute id="Flag" type="int32" value="0" />
+            <attribute id="Icon" type="FixedString" value="33799690-b92d-4d0e-bf1d-429e2d99cde0-_(Icon_Elf_Female)" />
+            <attribute id="LevelName" type="FixedString" value="" />
+            <attribute id="MapKey" type="FixedString" value="981e308e-b496-44aa-91e8-4a565b7c1e4b" />
+            <attribute id="Name" type="LSString" value="Elves_Female_High_Player" />
+            <attribute id="ParentTemplateId" type="FixedString" value="b7a9f85c-2628-4daf-9c61-6d487b0c5763" />
+            <attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
+            <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+            <attribute id="Stats" type="FixedString" value="HeroElfFemale" />
+            <attribute id="Type" type="FixedString" value="character" />
+            <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+            <children>
+                <node id="LocomotionParams" />
+                <node id="SpeakerGroupList">
+                    <children>
+                        <node id="SpeakerGroup">
+                            <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+                        </node>
+                        <node id="SpeakerGroup">
+                            <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="GameObjects">
+            <attribute id="CharacterVisualResourceID" type="FixedString" value="e94c042a-993d-43a1-89b7-ef151d516655" />
+            <attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+            <attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+            <attribute id="Icon" type="FixedString" value="e94c042a-993d-43a1-89b7-ef151d516655-_(Icon_Human_Female_Strong)" />
+            <attribute id="LevelName" type="FixedString" value="" />
+            <attribute id="MapKey" type="FixedString" value="d70ec48b-c4c2-4656-8e73-58d67471be83" />
+            <attribute id="Name" type="LSString" value="Elves_Female_High_Player_Strong" />
+            <attribute id="ParentTemplateId" type="FixedString" value="981e308e-b496-44aa-91e8-4a565b7c1e4b" />
+            <attribute id="PortraitVisualResourceID" type="FixedString" value="8d3b10f3-7f7c-626d-0d13-4d6223de9f94" />
+            <attribute id="Type" type="FixedString" value="character" />
+            <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+            <children>
+                <node id="LocomotionParams" />
+                <node id="Tags">
+                    <children>
+                        <node id="Tag">
+                            <attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="GameObjects">
+            <attribute id="CharacterVisualResourceID" type="FixedString" value="c088c5ec-a163-4abf-872d-caa09627d75d" />
+            <attribute id="Flag" type="int32" value="0" />
+            <attribute id="Icon" type="FixedString" value="c088c5ec-a163-4abf-872d-caa09627d75d-_(Icon_Elf_Male)" />
+            <attribute id="LevelName" type="FixedString" value="" />
+            <attribute id="MapKey" type="FixedString" value="364fa416-3e63-4ed2-8e6e-8471a34a3da2" />
+            <attribute id="Name" type="LSString" value="Elves_Male_High_Player" />
+            <attribute id="ParentTemplateId" type="FixedString" value="88ca5300-fcb1-41c9-a688-e4f69bf28c8e" />
+            <attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+            <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+            <attribute id="Stats" type="FixedString" value="HeroElfMale" />
+            <attribute id="Type" type="FixedString" value="character" />
+            <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+            <children>
+                <node id="LocomotionParams" />
+                <node id="SpeakerGroupList">
+                    <children>
+                        <node id="SpeakerGroup">
+                            <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+                        </node>
+                        <node id="SpeakerGroup">
+                            <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+        <node id="GameObjects">
+            <attribute id="CharacterVisualResourceID" type="FixedString" value="885224b3-66e6-4f59-a272-3716d54f698a" />
+            <attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+            <attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
+            <attribute id="Icon" type="FixedString" value="885224b3-66e6-4f59-a272-3716d54f698a-_(Icon_Human_Male_Strong)" />
+            <attribute id="LevelName" type="FixedString" value="" />
+            <attribute id="MapKey" type="FixedString" value="ac30ba9c-67b5-459e-ab39-e8c9ed93e7fa" />
+            <attribute id="Name" type="LSString" value="Elves_Male_High_Player_Strong" />
+            <attribute id="ParentTemplateId" type="FixedString" value="364fa416-3e63-4ed2-8e6e-8471a34a3da2" />
+            <attribute id="PortraitVisualResourceID" type="FixedString" value="76172a38-007d-6213-d75c-820a8b67004a" />
+            <attribute id="Type" type="FixedString" value="character" />
+            <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+            <children>
+                <node id="LocomotionParams" />
+                <node id="Tags">
+                    <children>
+                        <node id="Tag">
+                            <attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
