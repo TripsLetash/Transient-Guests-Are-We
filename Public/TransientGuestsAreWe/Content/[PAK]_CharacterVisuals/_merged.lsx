@@ -21,19 +21,25 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="a2b22bb4-dca6-275a-29dd-9ba5ca640498" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="58c1273a-4152-41ba-9d6c-f44c734007cc" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="04f2e492-facf-7f25-fcaa-f80184542f06" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="d4f90a65-1d2e-59b2-5919-267b7fdaab50" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="f55582e7-e491-290e-8ebe-63f9e64f0a38" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="89983ad8-9350-45a5-bbf0-0266f3f00a74" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="False" />
@@ -309,7 +315,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="449eba68-442d-a684-c843-c32961002dc1" />
+							<attribute id="VisualResource" type="FixedString" value="9666ff20-a633-f5b7-616b-9d949b9926b6" />
 						</node>
 					</children>
 				</node>
@@ -330,19 +336,25 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="a2b22bb4-dca6-275a-29dd-9ba5ca640498" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="58c1273a-4152-41ba-9d6c-f44c734007cc" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="04f2e492-facf-7f25-fcaa-f80184542f06" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="d4f90a65-1d2e-59b2-5919-267b7fdaab50" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="f55582e7-e491-290e-8ebe-63f9e64f0a38" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="89983ad8-9350-45a5-bbf0-0266f3f00a74" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="False" />
@@ -632,7 +644,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="449eba68-442d-a684-c843-c32961002dc1" />
+							<attribute id="VisualResource" type="FixedString" value="9666ff20-a633-f5b7-616b-9d949b9926b6" />
 						</node>
 					</children>
 				</node>
@@ -653,25 +665,25 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="73d00e6d-d66e-8a39-e1ae-5f6e47ab5a2e" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="58c1273a-4152-41ba-9d6c-f44c734007cc" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="5be2f4a9-7f1b-673b-8d90-f10bf748215b" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="89983ad8-9350-45a5-bbf0-0266f3f00a74" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="05Makeup" />
 											<attribute id="MapKey" type="FixedString" value="05Makeup" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e22ca76f-ff27-ee34-4fea-266a2a8d8ee3" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a4fda7a2-daa5-4117-2316-effcf7cecc78" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="742499c5-9a8c-ce4c-974f-78f3d652e10e" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="False" />
@@ -934,7 +946,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="588b3a58-bcf1-b2be-ba70-98bc821c64d3" />
+							<attribute id="VisualResource" type="FixedString" value="a93f4c35-ad57-11eb-8952-42aff7dcc142" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -970,25 +982,25 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="73d00e6d-d66e-8a39-e1ae-5f6e47ab5a2e" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="58c1273a-4152-41ba-9d6c-f44c734007cc" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="5be2f4a9-7f1b-673b-8d90-f10bf748215b" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="89983ad8-9350-45a5-bbf0-0266f3f00a74" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="05Makeup" />
 											<attribute id="MapKey" type="FixedString" value="05Makeup" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e22ca76f-ff27-ee34-4fea-266a2a8d8ee3" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a4fda7a2-daa5-4117-2316-effcf7cecc78" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="742499c5-9a8c-ce4c-974f-78f3d652e10e" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="False" />
@@ -1237,7 +1249,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="588b3a58-bcf1-b2be-ba70-98bc821c64d3" />
+							<attribute id="VisualResource" type="FixedString" value="a93f4c35-ad57-11eb-8952-42aff7dcc142" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
