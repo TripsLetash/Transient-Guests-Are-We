@@ -309,7 +309,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="a5f01eb8-0a78-cb6b-f8ad-4d43019eaac0" />
+							<attribute id="ID" type="FixedString" value="ff071092-869f-4b99-8f56-bac588286113" />
 							<attribute id="ParameterName" type="FixedString" value="CancelMSK" />
 						</node>
 						<node id="Texture2DParameters">
@@ -524,7 +524,7 @@
 						<attribute id="ID" type="FixedString" value="ff071092-869f-4b99-8f56-bac588286113" />
 						<attribute id="Name" type="LSString" value="DPR_MS_NKD_Body_MSK" />
 						<attribute id="SRGB" type="bool" value="False" />
-						<attribute id="SourceFile" type="LSString" value="Generated/Bodies/DPR_MS_NKD_Body_MSK.DDS" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Bodies/DPR_M_NKD_Body/DPR_MS_NKD_Body_MSK.DDS" />
 						<attribute id="Streaming" type="bool" value="True" />
 						<attribute id="Template" type="FixedString" value="DPR_MS_NKD_Body_MSK" />
 						<attribute id="Type" type="int32" value="1" />

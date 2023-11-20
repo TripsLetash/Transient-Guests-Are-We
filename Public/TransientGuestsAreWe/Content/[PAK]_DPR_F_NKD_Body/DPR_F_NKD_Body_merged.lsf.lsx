@@ -524,7 +524,7 @@
 						<attribute id="ID" type="FixedString" value="ff071092-869f-4b99-8f56-bac588286113" />
 						<attribute id="Name" type="LSString" value="DPR_F_NKD_Body_MSK" />
 						<attribute id="SRGB" type="bool" value="False" />
-						<attribute id="SourceFile" type="LSString" value="Generated/Bodies/DPR_F_NKD_Body_MSK.DDS" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Bodies/DPR_F_NKD_Body/DPR_F_NKD_Body_MSK.DDS" />
 						<attribute id="Streaming" type="bool" value="True" />
 						<attribute id="Template" type="FixedString" value="DPR_F_NKD_Body_MSK" />
 						<attribute id="Type" type="int32" value="1" />
