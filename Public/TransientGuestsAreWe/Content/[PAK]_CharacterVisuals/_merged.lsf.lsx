@@ -6,7 +6,7 @@
 			<children>
                 <node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />
-					<attribute id="BodySetVisual" type="FixedString" value="017534b5-2b56-4160-9d8c-7712d3a413ea" />
+					<attribute id="BodySetVisual" type="FixedString" value="05ca5a66-f278-4263-a7f1-5ed929fb1ad6" />
 					<attribute id="ID" type="FixedString" value="c088c5ec-a163-4abf-872d-caa09627d75d" />
 					<attribute id="Name" type="LSString" value="Dhampir_Male_Player_364fa416-3e63-4ed2-8e6e-8471a34a3da2" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -300,7 +300,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="c1c97ff6-04b6-37c0-b855-681b18447fc4" />
+							<attribute id="VisualResource" type="FixedString" value="d2190230-5a73-4a80-aeb6-31cd4c09a988" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -321,7 +321,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
-					<attribute id="BodySetVisual" type="FixedString" value="d394254b-ef37-3314-4bab-556b07e6de0d" />
+					<attribute id="BodySetVisual" type="FixedString" value="016b9d9b-fd03-4200-81aa-b473be89abb4" />
 					<attribute id="ID" type="FixedString" value="885224b3-66e6-4f59-a272-3716d54f698a" />
 					<attribute id="Name" type="LSString" value="Dhampir_Male_Player_Strong_ac30ba9c-67b5-459e-ab39-e8c9ed93e7fa" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -629,7 +629,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="7cb98467-95e6-ad02-689e-9fc0f19cedb7" />
+							<attribute id="VisualResource" type="FixedString" value="8c143860-3485-4ca7-af2f-64e1ab0e7b1f" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -650,7 +650,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
-					<attribute id="BodySetVisual" type="FixedString" value="edb26736-c3d5-72a7-b69a-16b5720ba664" />
+					<attribute id="BodySetVisual" type="FixedString" value="69892736-446b-43df-928d-9d06b7f4a96d" />
 					<attribute id="ID" type="FixedString" value="e94c042a-993d-43a1-89b7-ef151d516655" />
 					<attribute id="Name" type="LSString" value="Dhampir_Female_Player_Strong_d70ec48b-c4c2-4656-8e73-58d67471be83" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -941,7 +941,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="73fd5441-1b0d-247f-d65f-085404ab65bb" />
+							<attribute id="VisualResource" type="FixedString" value="f2e647e0-040a-447e-97d4-01645416389c" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -967,7 +967,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
-					<attribute id="BodySetVisual" type="FixedString" value="9e43f0e4-d063-d85c-87b4-470d569645db" />
+					<attribute id="BodySetVisual" type="FixedString" value="df7d9a6b-4c49-4a55-899d-511ef211b658" />
 					<attribute id="ID" type="FixedString" value="33799690-b92d-4d0e-bf1d-429e2d99cde0" />
 					<attribute id="Name" type="LSString" value="Dhampir_Female_Player_981e308e-b496-44aa-91e8-4a565b7c1e4b" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -1244,7 +1244,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="555b1e26-9a79-c11b-134d-a557b317bd93" />
+							<attribute id="VisualResource" type="FixedString" value="1cfbcbe4-23bb-4a0f-98e1-33741f420ec1" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
