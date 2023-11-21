@@ -295,7 +295,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="fa42aea7-0462-4728-b50d-2ac1cde7adcb" />
+							<attribute id="ID" type="FixedString" value="48618bbb-ceb0-478c-9396-c0dae34c93cb" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -344,7 +344,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="e4796aa0-8d20-8cca-b451-dfa40ca17567" />
+							<attribute id="ID" type="FixedString" value="1da546f0-32a4-4013-bed7-a472e37c655f" />
 							<attribute id="ParameterName" type="FixedString" value="HMVY" />
 						</node>
 						<node id="Texture2DParameters">
@@ -365,7 +365,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="2a4d1cec-11ec-7bb0-81a4-8a95c0458132" />
+							<attribute id="ID" type="FixedString" value="e02d7afd-d872-42ab-819a-6c9a229fbc1b" />
 							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
 						<node id="Texture2DParameters">
@@ -518,6 +518,45 @@
 		<region id="TextureBank">
 			<node id="TextureBank">
 				<children>
+					<node id="Resource">
+						<attribute id="Depth" type="int32" value="1" />
+						<attribute id="Height" type="int32" value="2048" />
+						<attribute id="ID" type="FixedString" value="e02d7afd-d872-42ab-819a-6c9a229fbc1b" />
+						<attribute id="Name" type="LSString" value="DPR_F_NKD_Body_CLEA" />
+						<attribute id="SRGB" type="bool" value="False" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Bodies/DPR_F_NKD_Body/DPR_F_NKD_Body_CLEA.DDS" />
+						<attribute id="Streaming" type="bool" value="True" />
+						<attribute id="Template" type="FixedString" value="DPR_F_NKD_Body_CLEA" />
+						<attribute id="Type" type="int32" value="1" />
+						<attribute id="Width" type="int32" value="2048" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					</node>
+					<node id="Resource">
+						<attribute id="Depth" type="int32" value="1" />
+						<attribute id="Height" type="int32" value="2048" />
+						<attribute id="ID" type="FixedString" value="1da546f0-32a4-4013-bed7-a472e37c655f" />
+						<attribute id="Name" type="LSString" value="DPR_F_NKD_Body_HMVY" />
+						<attribute id="SRGB" type="bool" value="False" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Bodies/DPR_F_NKD_Body/DPR_F_NKD_Body_HMVY.DDS" />
+						<attribute id="Streaming" type="bool" value="True" />
+						<attribute id="Template" type="FixedString" value="DPR_F_NKD_Body_HMVY" />
+						<attribute id="Type" type="int32" value="1" />
+						<attribute id="Width" type="int32" value="2048" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					</node>
+					<node id="Resource">
+						<attribute id="Depth" type="int32" value="1" />
+						<attribute id="Height" type="int32" value="2048" />
+						<attribute id="ID" type="FixedString" value="48618bbb-ceb0-478c-9396-c0dae34c93cb" />
+						<attribute id="Name" type="LSString" value="DPR_F_NKD_Body_NM" />
+						<attribute id="SRGB" type="bool" value="False" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Bodies/DPR_F_NKD_Body/DPR_F_NKD_Body_NM.DDS" />
+						<attribute id="Streaming" type="bool" value="True" />
+						<attribute id="Template" type="FixedString" value="DPR_F_NKD_Body_NM" />
+						<attribute id="Type" type="int32" value="1" />
+						<attribute id="Width" type="int32" value="2048" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					</node>
 					<node id="Resource">
 						<attribute id="Depth" type="int32" value="1" />
 						<attribute id="Height" type="int32" value="2048" />
