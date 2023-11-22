@@ -57,42 +57,42 @@ x   <region id="VisualBank">
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="fd8ad836-b23a-434b-9ec2-21ed1bfc6e46" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_F_NKD_Head_CS.DPR_F_NKD_Head_CS_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mouth_Interior_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_F_NKD_Head_CS.DPR_F_NKD_Head_CS_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="896dc443-f789-ddd1-7bfe-687060845584" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_F_NKD_Head_CS.DPR_F_NKD_Head_CS_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="fd8ad836-b23a-434b-9ec2-21ed1bfc6e46" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Ears_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_F_NKD_Head_CS.DPR_F_NKD_Head_CS_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Tearline_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_F_NKD_Head_CS.DPR_F_NKD_Head_CS_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyelashes_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_F_NKD_Head_CS.DPR_F_NKD_Head_CS_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyeshadow_Mesh.6" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_F_NKD_Head_CS.DPR_F_NKD_Head_CS_Eyeshadow_Mesh.6" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Scalp_Mesh.7" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_F_NKD_Head_CS.DPR_F_NKD_Head_CS_Scalp_Mesh.7" />
 						</node>
 					</children>
 				</node>
