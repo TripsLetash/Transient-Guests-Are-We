@@ -1,4 +1,4 @@
-<!--------------------- Aasimar Passives --------------------->
+<!--------------------- Dhampir Passives --------------------->
 
 new entry "Weev_Dhampir_Passives"
 type "PassiveData"
