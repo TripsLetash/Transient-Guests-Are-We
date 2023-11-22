@@ -1401,10 +1401,13 @@
             </node>
             <!--TAGS-->
             <node id="Tags">
-              <attribute id="Object" type="guid" value="4fa13243-199d-4c9a-b455-d844276a98f5" />
+              <attribute id="Object" type="guid" value="4fa13243-199d-4c9a-b455-d844276a98f5" /> <!--DrowHalfElf-->
             </node>
             <node id="Tags">
-              <attribute id="Object" type="guid" value="34317158-8e6e-45a2-bd1e-6604d82fdda2" />
+              <attribute id="Object" type="guid" value="34317158-8e6e-45a2-bd1e-6604d82fdda2" /> <!--HalfElf-->
+            </node>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="0f641510-fc4e-469e-9f67-90987645876d" /><!--Dhampir Tag-->
             </node>
             <!--TATTOO COLOURS-->
             <node id="TattooColors">
