@@ -15,23 +15,23 @@ x   <region id="VisualBank">
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="ded17091-6bc0-455f-ac0b-7f2ab8448d9d" />
+					<attribute id="ID" type="FixedString" value="75b4f434-0c3e-43aa-bb24-33fbde78d990" />
 					<!-- ^^ Place the ID you generated from the VisualResource attribute in CharacterCreationAppearanceVisuals here. ^^ -->
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="DPR_MS_NKD_Head_CS" />
+					<attribute id="Name" type="LSString" value="DPR_MS_NKD_Head_AS" />
 					<!-- ^^ Place the name of your head mesh here. ^^ -->
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="e2aa074e-727c-429c-9a2e-5ec7d241dcd0" />
+					<attribute id="SkeletonResource" type="FixedString" value="2fbeac52-3ca8-411c-8982-0835d1c1061c" />
 					<!-- ^^ If you mass replaced the ID from the SkeletonBank correctly, it should also have been placed here. If it didn't paste correctly,
 					copy it directly from your Skeletonbank ID attribute. ^^ -->
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Heads/DPR_M_NKD_Head_C/DPR_MS_NKD_Head_CS.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Heads/DPR_MS_NKD_Head_A/DPR_MS_NKD_Head_AS.GR2" />
 					<!-- ^^ Copy the path to your head mesh here, including the .GR2. Change all \ to / ^^ -->
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Heads/DPR_M_NKD_Head_C/DPR_MS_NKD_Head_CS.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Heads/DPR_MS_NKD_Head_A/DPR_MS_NKD_Head_AS.Dummy_Root.0" />
 					<!-- ^^ This should be the same path as above, but instead of .GR2, it should say .Dummy_Root.0 ^^ -->
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
@@ -56,43 +56,43 @@ x   <region id="VisualBank">
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="51ac689e-2fee-4ff6-88d2-4708d47f92bf" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="0aa8ef2f-b265-4b28-b7dc-937e84520080" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_MS_NKD_Head_AS.DPR_MS_NKD_Head_AS_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Mouth_Interior_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_MS_NKD_Head_AS.DPR_MS_NKD_Head_AS_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="896dc443-f789-ddd1-7bfe-687060845584" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_MS_NKD_Head_AS.DPR_MS_NKD_Head_AS_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="51ac689e-2fee-4ff6-88d2-4708d47f92bf" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Ears_Mesh.3" />
+							<attribute id="MaterialID" type="FixedString" value="0aa8ef2f-b265-4b28-b7dc-937e84520080" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_MS_NKD_Head_AS.DPR_MS_NKD_Head_AS_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Tearline_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_MS_NKD_Head_AS.DPR_MS_NKD_Head_AS_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyelashes_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_MS_NKD_Head_AS.DPR_MS_NKD_Head_AS_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Eyeshadow_Mesh.6" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_MS_NKD_Head_AS.DPR_MS_NKD_Head_AS_Eyeshadow_Mesh.6" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
-							<attribute id="ObjectID" type="FixedString" value="ELF_Foxglove.ELF_Foxglove_Scalp_Mesh.7" />
+							<attribute id="ObjectID" type="FixedString" value="DPR_MS_NKD_Head_AS.DPR_MS_NKD_Head_AS_Scalp_Mesh.7" />
 						</node>
 					</children>
 				</node>
